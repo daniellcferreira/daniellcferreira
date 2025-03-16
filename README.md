@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daniel Ferreira!
 
-💻 Full Stack Developer and Data Science passionate about technology, with experience in:
+💻 Full Stack Developer and Data Science passionate about technology
 
 ### 🚀 **Technologies and Tools**
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
