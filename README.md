@@ -1,8 +1,15 @@
 # 👋 Hi, I'm Daniel Ferreira!
 
+
+
 💻 Full Stack Developer and Data Science passionate about technology
 
+
+
+
 ### 🚀 **Technologies and Tools**
+
+
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
@@ -27,7 +34,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 
----
+
 
 ## 📊 **GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniellcferreira&show_icons=true&theme=default)
