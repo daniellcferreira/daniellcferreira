@@ -1,11 +1,8 @@
 # 👋 Hi, I'm Daniel Ferreira!
-
-
-
+<br>
 💻 Full Stack Developer and Data Science passionate about technology
-
-
-
+<br>
+<br>
 
 ### 🚀 **Technologies and Tools**
 
@@ -32,9 +29,9 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-
-
+<br>
+<br>
+<br>
 
 ## 📊 **GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniellcferreira&show_icons=true&theme=default)
