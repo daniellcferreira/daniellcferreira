@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daniel Ferreira!
 <br>
-💻 Full Stack Developer and Data Science passionate about technology
+💻 Full Stack Developer and Data Science passionate about technology, always seeking new knowledge.
 <br>
 <br>
 
