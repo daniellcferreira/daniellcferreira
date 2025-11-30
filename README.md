@@ -34,7 +34,7 @@
 <br>
 
 ## 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniellcferreira&show_icons=true&theme=default&count_private=true)
+![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=daniellcferreira&show_icons=true&theme=default)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellcferreira&layout=compact&theme=default&count_private=true)
 
 
